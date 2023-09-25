@@ -22,5 +22,6 @@ npm-debug.log
 
 # environment
 .env
+.env.test
 
 note.txt

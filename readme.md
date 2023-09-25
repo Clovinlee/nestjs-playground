@@ -26,3 +26,10 @@ My playground / learning repo for nest-js.
 ### CRUD
 - Using Prisma as ORM
 - Migration
+- Seeding
+
+### API
+- e2e Testing
+- DTO
+- Module - Controller - Service
+- Decorator(s) 
